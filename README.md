@@ -16,9 +16,9 @@
 https://stellaa30.github.io/Console-Finances/
 
 ## How to Run the code
-1) Open the URL link above in Google Chrom
+1) Open the URL link above in Google Chrome
 2) Right click and select "Inspect"
-3) Click on console to view the JavaScript outputs
+3) Click on the console tab to view the JavaScript outputs
 
 
 
