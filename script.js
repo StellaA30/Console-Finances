@@ -144,7 +144,7 @@ console.log("-------------------------");
 console.log("Total Months:",finances.length);
 console.log("Total:",totalAmount);
 
-console.log("Average Change: $"+averageChanges, "this includes the first month!");
+console.log("Average Change: $"+averageChanges, "excluding the first month!");
 console.log("Greatest Increase in Profits:", maxMonth+": $"+maxChange, "("+ maxMonth+" - "+ prevMaxMonth+")");
 console.log("Greatest Decrease in Profits:", minMonth+": $"+minChange, "("+ minMonth+" - "+ prevMinMonth+")");
 
