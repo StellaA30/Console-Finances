@@ -13,7 +13,7 @@
 
 
 ## URL link to the deployed application
-!(https://stellaa30.github.io/Console-Finances/)
+https://stellaa30.github.io/Console-Finances/
 
 ## How to Run the code
 1) Open the URL link above in Google Chrom
