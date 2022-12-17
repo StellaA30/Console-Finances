@@ -9,7 +9,7 @@
 4) The minimum and maximum changes and their corresponding months
 
 ## Screenshot of analysis:
-![Screenshot of analysis](./Images/screenshot.jpg)
+![Screenshot of analysis](./Images/screenshot2.jpg)
 
 
 ## URL link to the deployed application
